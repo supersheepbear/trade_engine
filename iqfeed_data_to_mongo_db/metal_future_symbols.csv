@@ -1,0 +1,5 @@
+symbol_roots,symbol_ib_roots,symbol_exchange
+@QO,QO,NYMEX
+QGC,GC,NYMEX
+QMGC,MGC,NYMEX
+@QC,QC,NYMEX

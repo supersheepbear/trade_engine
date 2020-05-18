@@ -1,0 +1,9 @@
+symbol_roots,symbol_ib_roots,symbol_exchange
+@ES,ES,GLOBEX
+@NQ,NQ,GLOBEX
+@YM,YM,CBT
+@RTY,RTY,GLOBEX
+@MES,MES,GLOBEX
+@MNQ,MNQ,GLOBEX
+@MYM,MYM,CBT
+@M2K,M2K,GLOBEX

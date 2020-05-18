@@ -1,0 +1,7 @@
+symbol_roots,symbol_ib_roots,symbol_exchange
+@SB,SB,ICE
+@DA,DA,GLOBEX
+@IHO,HO,NYMEX
+@QM,QM,NYMEX
+@QG,QG,NYMEX
+@YC,YC,ICE
