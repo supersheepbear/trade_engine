@@ -1,0 +1,6 @@
+2020-05-25 17:38:28,443 - mongo_saver - INFO - saving DA starts
+2020-05-25 17:44:30,924 - mongo_saver - INFO - time used is 362.4803342819214
+2020-05-25 17:44:30,926 - mongo_saver - INFO - saving DA successful
+2020-05-25 17:44:30,929 - mongo_saver - INFO - saving ES starts
+2020-05-25 19:39:53,162 - mongo_saver - INFO - time used is 6922.232392072678
+2020-05-25 19:39:53,163 - mongo_saver - INFO - saving ES successful

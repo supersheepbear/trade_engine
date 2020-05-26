@@ -1,0 +1,9 @@
+2020-05-25 17:39:19,883 - mongo_saver - INFO - saving KC starts
+2020-05-25 18:23:41,976 - mongo_saver - INFO - time used is 2662.0932927131653
+2020-05-25 18:23:41,978 - mongo_saver - INFO - saving KC successful
+2020-05-25 18:23:41,981 - mongo_saver - INFO - saving M2K starts
+2020-05-25 18:27:56,614 - mongo_saver - INFO - time used is 254.63253378868103
+2020-05-25 18:27:56,615 - mongo_saver - INFO - saving M2K successful
+2020-05-25 18:27:56,618 - mongo_saver - INFO - saving MES starts
+2020-05-25 18:32:47,745 - mongo_saver - INFO - time used is 291.1271266937256
+2020-05-25 18:32:47,748 - mongo_saver - INFO - saving MES successful

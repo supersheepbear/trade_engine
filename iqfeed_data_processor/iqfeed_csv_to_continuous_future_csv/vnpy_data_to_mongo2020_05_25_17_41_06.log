@@ -1,0 +1,12 @@
+2020-05-25 17:41:06,495 - mongo_saver - INFO - saving RTY starts
+2020-05-25 19:06:04,395 - mongo_saver - INFO - time used is 5097.900201797485
+2020-05-25 19:06:04,396 - mongo_saver - INFO - saving RTY successful
+2020-05-25 19:06:04,399 - mongo_saver - INFO - saving SB starts
+2020-05-25 19:48:09,432 - mongo_saver - INFO - time used is 2525.032513141632
+2020-05-25 19:48:09,434 - mongo_saver - INFO - saving SB successful
+2020-05-25 19:48:09,437 - mongo_saver - INFO - saving YC starts
+2020-05-25 20:00:45,112 - mongo_saver - INFO - time used is 755.6748232841492
+2020-05-25 20:00:45,115 - mongo_saver - INFO - saving YC successful
+2020-05-25 20:00:45,118 - mongo_saver - INFO - saving YM starts
+2020-05-25 21:43:36,867 - mongo_saver - INFO - time used is 6171.74728512764
+2020-05-25 21:43:36,888 - mongo_saver - INFO - saving YM successful

@@ -1,0 +1,9 @@
+2020-05-25 17:39:40,889 - mongo_saver - INFO - saving MGC starts
+2020-05-25 18:19:05,993 - mongo_saver - INFO - time used is 2365.1039621829987
+2020-05-25 18:19:05,995 - mongo_saver - INFO - saving MGC successful
+2020-05-25 18:19:06,000 - mongo_saver - INFO - saving MNQ starts
+2020-05-25 18:24:16,206 - mongo_saver - INFO - time used is 310.2060248851776
+2020-05-25 18:24:16,208 - mongo_saver - INFO - saving MNQ successful
+2020-05-25 18:24:16,211 - mongo_saver - INFO - saving MYM starts
+2020-05-25 18:29:04,054 - mongo_saver - INFO - time used is 287.8436920642853
+2020-05-25 18:29:04,058 - mongo_saver - INFO - saving MYM successful
