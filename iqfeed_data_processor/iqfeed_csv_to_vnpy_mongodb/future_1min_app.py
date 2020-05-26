@@ -1,3 +1,4 @@
+from vnpy.trader.constant import Interval
 import pandas as pd
 import logging
 import datetime
@@ -5,7 +6,7 @@ import json
 import glob
 import os
 
-from data_import import move_csv_to_mongo_db
+from data_import import move_1_min_csv_to_mongo_db
 
 
 def read_config():
@@ -51,7 +52,8 @@ if __name__ == "__main__":
                 symbol_csv_path = os.path.join(data_folder, symbol_csv_string)
                 ib_symbol = "".join([symbol_ib_root, month_code, year])
                 if symbol_csv_path in path_list:
-                    move_csv_to_mongo_db(symbol_csv_path,
-                                         ib_symbol,
-                                         symbol_exchange,
-                                         logger)
+                    move_1_min_csv_to_mongo_db(symbol_csv_path,
+                                               ib_symbol,
+                                               symbol_exchange,
+                                               Interval.MINUTE,
+                                               logger)
