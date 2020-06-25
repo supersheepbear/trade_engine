@@ -44,3 +44,15 @@ _templates
 
 # TXT
 .txt
+
+# temp ipynb files
+*-Copy.ipynb
+
+# csv files
+*.csv
+
+# log files
+*.log
+
+# json files
+*.json
