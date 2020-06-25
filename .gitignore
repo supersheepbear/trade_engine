@@ -46,6 +46,7 @@ _templates
 .txt
 
 # temp ipynb files
+*-Copy*.ipynb
 *-Copy.ipynb
 
 # csv files
