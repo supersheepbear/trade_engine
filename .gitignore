@@ -57,3 +57,15 @@ _templates
 
 # json files
 *.json
+
+# h5 files
+*.h5
+
+# draft
+draft*
+
+# .csv#
+.csv#
+
+# temp files
+*.tmp
