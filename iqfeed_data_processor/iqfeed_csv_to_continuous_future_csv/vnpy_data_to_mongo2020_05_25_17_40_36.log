@@ -1,9 +1,0 @@
-2020-05-25 17:40:36,595 - mongo_saver - INFO - saving QG starts
-2020-05-25 18:00:12,247 - mongo_saver - INFO - time used is 1175.6512115001678
-2020-05-25 18:00:12,249 - mongo_saver - INFO - saving QG successful
-2020-05-25 18:00:12,252 - mongo_saver - INFO - saving QM starts
-2020-05-25 18:53:14,104 - mongo_saver - INFO - time used is 3181.852770805359
-2020-05-25 18:53:14,106 - mongo_saver - INFO - saving QM successful
-2020-05-25 18:53:14,108 - mongo_saver - INFO - saving QO starts
-2020-05-25 19:01:55,626 - mongo_saver - INFO - time used is 521.517252445221
-2020-05-25 19:01:55,629 - mongo_saver - INFO - saving QO successful
