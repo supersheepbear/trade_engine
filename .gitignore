@@ -69,3 +69,6 @@ draft*
 
 # temp files
 *.tmp
+
+# lock files
+*lock*
