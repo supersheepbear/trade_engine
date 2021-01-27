@@ -1,4 +1,0 @@
-{
-    "data_folder_path": "D:\\data\\iqfeed\\future\\all_data",
-    "symbols_csv_path": "E:\\project\\notebooks\\vnpy\\iqfeed_data_to_mongo_db\\futures_to_import.csv"
-}
