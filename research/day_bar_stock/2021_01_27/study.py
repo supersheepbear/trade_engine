@@ -141,11 +141,11 @@ if __name__ == "__main__":
 
     # 在此定义策略中的所有参数取值范围, 用list数据结构
     param_value_selections = [
-        np.arange(10, 30, 2),
-        np.arange(10, 30, 2),
+        np.arange(5, 50, 5),
+        np.arange(5, 100, 5),
         [5],
         [0.05, 0.08, 0.11],
-        [0.5, 1, 1.5, 2]
+        [0.2, 0.4, 0.6, 0.8]
     ]
 
     # 创建多进程
@@ -178,4 +178,4 @@ if __name__ == "__main__":
         opt_summary_frame = pd.concat([opt_summary_frame, pd.DataFrame(pool_result.get())])
     pool.close()
     pool.join()
-    opt_summary_frame.to_csv("optimization_summary.csv", index=False)
+    opt_summary_frame.to_csv("optimization_summary_1.csv", index=False)
